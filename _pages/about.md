@@ -37,17 +37,18 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 💼 Internship
 ======
-**RSM China CPA LLP | Financial Analyst** (*2025.08 - 2025.10, Expected)
+**RSM China CPA LLP | Financial Analyst** (*2025.08 - 2025.10, Expected*)
 
 
 💻 In-Class Projects
 ======
 **PSTAT 122 Project in R**
+
 **Project in C**
 
 📈 Leadership Experience
 ======
-**UCSB Chinese Students and Scholars Association | Vice President** (*2025.05 - Present)
+**UCSB Chinese Students and Scholars Association | Vice President** (*2025.05 - Present*)
 - Oversee organizational financial operations, including annual budgeting, reimbursement processing, and UCSB funding applications, ensuring transparency and fiscal accountability
 - Spearheaded the development of an internal OA system to optimize team workflow, including SQL-based user database design and a custom-built web interface for internal communication and task management
 - Coordinate cross-departmental efforts between finance, tech, and operations teams to ensure aligned objectives and smooth implementation
