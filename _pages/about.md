@@ -31,7 +31,8 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Achieved 100% on-time submissions of deliverable and with consistent professor satisfaction for quality
 - Selected as an undergraduate grader due to outstanding academic performance in mathematics
 
-**UCSB Disabled Student Program | Notetaker** (*2024.09 - 2025.01*)                                      - Enhance note-taking efficiency by delivering 70+ comprehensive notes to support 10+ students
+**UCSB Disabled Student Program | Notetaker** (*2024.09 - 2025.01*)
+- Enhance note-taking efficiency by delivering 70+ comprehensive notes to support 10+ students
 - Demonstrate attention to detail and reliability by implementing structured formats and adapting to specific needs 
 
 
