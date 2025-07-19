@@ -33,7 +33,7 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 **UCSB Disabled Student Program | Notetaker** (*2024.09 - 2025.01*)                                      - Enhance note-taking efficiency by delivering 70+ comprehensive notes to support 10+ students
 - Demonstrate attention to detail and reliability by implementing structured formats and adapting to specific needs 
-<img width="468" height="377" alt="image" src="https://github.com/user-attachments/assets/a58f17ac-7e30-493f-b81d-c9d71912b5af" />
+
 
 💼 Internship
 ======
