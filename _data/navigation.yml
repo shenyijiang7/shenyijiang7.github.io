@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Campus Experience"
-    url: /campus-experience/
+ # - title: "Campus Experience"
+   # url: /campus-experience/
 
-  - title: "Internship"
-    url: /internship/    
+ # - title: "Internship"
+   # url: /internship/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+    # url: /teaching/    
     
-  - title: "In-Class Project"
-    url: /in-class-project/
+  # - title: "In-Class Project"
+    # url: /in-class-project/
         
-  - title: "Leadership Experience"
-    url: /leadership-experience/
+ # - title: "Leadership Experience"
+   # url: /leadership-experience/
     
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+   # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
