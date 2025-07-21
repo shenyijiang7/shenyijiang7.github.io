@@ -20,6 +20,21 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 **Project in C**
 
 
+📌 Skill
+======
+**Programming Languages**
+- Python
+- R
+- SQL
+- JavaScript
+- C
+- Stata
+
+**Technical Skill**
+- Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
+- Google Suite
+
+
 📂 Campus Experience
 ======
 **UCSB BabaNana Drama Club | Finance Department Director** (*2025.04 - Present*) 
@@ -39,7 +54,11 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 **UCSB Disabled Student Program | Notetaker** (*2024.09 - 2025.01*)
 - Enhance note-taking efficiency by delivering 70+ comprehensive notes to support 10+ students
-- Demonstrate attention to detail and reliability by implementing structured formats and adapting to specific needs 
+- Demonstrate attention to detail and reliability by implementing structured formats and adapting to specific needs
+
+**TOEFL | Individual Tutor** (*2023.07 - Present*)                                         
+- Mentored 10+ students, achieving an average score improvement of 3 point in TOEFL speaking by founding an independent initiative
+- Guide Chinese undergraduate students in developing personalized study plans for TOEFL exams, contributing to multiple successful admission to U.S. graduate schools
 
 
 💼 Internship
@@ -53,5 +72,6 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Oversee organizational financial operations, including annual budgeting, reimbursement processing, and UCSB funding applications, ensuring transparency and fiscal accountability
 - Spearheaded the development of an internal OA system to optimize team workflow, including SQL-based user database design and a custom-built web interface for internal communication and task management
 - Coordinate cross-departmental efforts between finance, tech, and operations teams to ensure aligned objectives and smooth implementation
+
 
 
