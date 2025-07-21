@@ -13,6 +13,12 @@ My experience spans data system development, math and accounting. In my sophomor
 
 Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding my technical skill set while staying grounded in the principles of clarity, accountability, and collaboration. I am particularly interested in the intersection of data infrastructure, financial processes, and scalable decision-making systems.
 
+💻 In-Class Projects
+======
+[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
+
+**Project in C**
+
 
 📂 Campus Experience
 ======
@@ -40,12 +46,6 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 ======
 **RSM China CPA LLP | Financial Analyst** (*2025.08 - 2025.10, Expected*)
 
-
-💻 In-Class Projects
-======
-[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
-
-**Project in C**
 
 📈 Leadership Experience
 ======
