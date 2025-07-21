@@ -43,7 +43,8 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 💻 In-Class Projects
 ======
-[**PSTAT 122 Project in R**] (https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
+[**PSTAT 122 Project in R**] (https://github.com/shenyijiang7/shenyijiang7.github.io/blob/master/files/pstat122-final-project.pdf)
+
 
 **Project in C**
 
