@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shenyi Jiang/Personal Page"
+title                    : "Shenyi Jiang"
 title_separator          : "-"
 name                     : &name "Shenyi Jiang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "github_profile.png"
-  name             : "Cecilia Jiang"
+  name             : "Shenyi Jiang"
   pronouns         : "she/her"  
   bio              : "Exploring the intersection of data, ethics, and decision-making to build responsible, interpretable, and impactful solutions."
   location         : "Santa Barbara, CA, US"
