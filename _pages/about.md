@@ -16,7 +16,7 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 📂 Campus Experience
 ======
-**UCSB BabaNana Drama Club| Finance Department Director** (*2025.04 - Present*) 
+**UCSB BabaNana Drama Club | Finance Department Director** (*2025.04 - Present*) 
 - Collaborate with UCSB’s AS Community Affairs Board to advocate for performance space funding and negotiate resource allocations
 - Lead sponsorship outreach and maintain relationships with local businesses to secure annual funding for productions and events
 - Allocate performance budgets based on event needs and maintain accurate financial records using organized spreadsheets, ensuring transparency and accountability across all productions
