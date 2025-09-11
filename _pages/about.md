@@ -1,5 +1,4 @@
-<img width="468" height="118" alt="image" src="https://github.com/user-attachments/assets/b7f21beb-f2f7-489b-81e7-bc6c10535b19" /><img width="468" height="92" alt="image" src="https://github.com/user-attachments/assets/b7debcc3-63cd-41d6-8a3d-f847ee93414d" />---
-permalink: /
+
 title: "About Me"
 author_profile: true
 redirect_from: 
