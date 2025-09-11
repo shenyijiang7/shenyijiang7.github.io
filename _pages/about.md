@@ -1,4 +1,4 @@
----
+<img width="468" height="118" alt="image" src="https://github.com/user-attachments/assets/b7f21beb-f2f7-489b-81e7-bc6c10535b19" /><img width="468" height="92" alt="image" src="https://github.com/user-attachments/assets/b7debcc3-63cd-41d6-8a3d-f847ee93414d" />---
 permalink: /
 title: "About Me"
 author_profile: true
@@ -13,14 +13,7 @@ My experience spans data system development, math and accounting. In my sophomor
 
 Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding my technical skill set while staying grounded in the principles of clarity, accountability, and collaboration. I am particularly interested in the intersection of data infrastructure, financial processes, and scalable decision-making systems.
 
-💻 In-Class Projects
-======
-[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
-
-**Project in C**
-
-
-📌 Skill
+📌 Skills & Interests
 ======
 **Programming Languages**
 - Python
@@ -31,12 +24,27 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Stata
 
 **Technical Skill**
+- Excel (VLOOKUP, PivotTables, etc.)
 - Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
 - Google Suite
 
+**Languages**
+- English
+- Chinese
+
+**Interests**
+- Baking
+- Hiking
+- LEGO
+
+**Awards**
+- F23 F24 W25 S25 Dean's Honors
 
 📂 Campus Experience
 ======
+**UCSB Data Science Capstone Project** (*2025.09 - 2026.06*)
+
+
 **UCSB BabaNana Drama Club | Finance Department Director** (*2025.04 - Present*) 
 - Collaborate with UCSB’s AS Community Affairs Board to advocate for performance space funding and negotiate resource allocations
 - Lead sponsorship outreach and maintain relationships with local businesses to secure annual funding for productions and events
@@ -61,10 +69,12 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Guide Chinese undergraduate students in developing personalized study plans for TOEFL exams, contributing to multiple successful admission to U.S. graduate schools
 
 
-💼 Internship
+💼 Internship Experience
 ======
-**RSM China CPA LLP | Financial Analyst** (*2025.08 - 2025.10, Expected*)
-
+**RSM China CPA LLP | Audit Assistant** (*2025.08 - 2025.10, Expected*)
+- Assisted in IPO audit procedures for an environmental technology company, conducted sampling tests, verified supporting documents, and drafted audit workpapers
+- Conducted bank reconciliations and examined financial records using Excel and RSM's EAS audit system, ensuring completeness and accuracy in documentation
+- Collaborated closely with team members to meet pressing deadlines, quickly adapting to dynamic priorities and demonstrating strong learning agility in a high-pressure environment
 
 📈 Leadership Experience
 ======
@@ -73,5 +83,18 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Spearheaded the development of an internal OA system to optimize team workflow, including SQL-based user database design and a custom-built web interface for internal communication and task management
 - Coordinate cross-departmental efforts between finance, tech, and operations teams to ensure aligned objectives and smooth implementation
 
+**UCSB Chinese Students and Scholars Association | Vice-Chair of Business Development Department, former Committee** (*2023.09 - 2025.05*)
+- Built Partnerships with 10+ local food businesses in Santa Barbara, providing exclusive promotions for UCSB students and CSSA members, boosting community engagement
+- Generated $60,000+ in annual sponsorship value through strategic outreach and contract negotiation
+- Coordinated communication across sponsors, executive board, and department teams to ensure efficient collaboration
+- Managed human resources, recruiting and task delegation for 20+ committe members, optimizing engagement
 
+💻 Projects
+======
+[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
+
+**Project in C**
+
+**PSTAT 197 Data Science Capstone**
+_# add github 197 link_
 
