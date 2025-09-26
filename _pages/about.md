@@ -17,7 +17,7 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 ======
 **University of California, Santa Barbara** *(2023.09 - 2027.06)*
 - Bachelor of Science (B.S.) in Statistics & Data Science
-- Bachelor of Arts (B.A.) in Economics & Accounting | CPA Candidate, Expected eligibility by Fall 2026
+- Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
 
 
 📌 Skills & Interests
