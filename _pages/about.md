@@ -25,15 +25,27 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 
 📍 Featured Projects
 ======
-**CalCOFI Pipeline & Dashboard** *(2025.09 - 2026.06)*
-**Tech Stack:** Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
+**CalCOFI Pipeline & Dashboard** 
+📅2025.09 - 2026.06
+**Tech Stack:** 
+! [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+! [R] (https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+! [DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=white)
+! [YAML](https://img.shields.io/badge/YAML-4A4A4A?style=flat-square&logo=yaml&logoColor=white)
+! [R Shiny](https://img.shields.io/badge/R20Shiny-276DC3?style=flat-square&logo=r-shiny&logoColor=white)
+! [GitHub Actions](https://img.shields.io/badge/GitHub20Actions-2088FF?style=flat-square&logo=githubactios&logoColor=white)
+! [Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage=4285F4?style=flat-square&logo=google-cloud&logo oColor=white)
+
+Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
 - Developed an automated pipeline to ingest, validate, and standardize 75+ years of oceanographic and species abundance data.
 - Built metadata-driven workflows and taxonomy standardization using WoRMS integration.
 - Implemented cloud-based distribution and automated weekly updates through GitHub Actions.
 - Contributed to an interactive dashboard for visualizing marine ecosystem trends and species distributions.
 
 🔗[Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
+|
 🔗[Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
+|
 🔗[GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
 
 
