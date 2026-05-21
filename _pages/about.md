@@ -7,57 +7,66 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student at the University of California, Santa Barbara, pursuing a double major in Statistics & Data Science (B.S.) and Economics & Accounting (B.A.). My academic and professional interests lie in applying data-driven methodologies to solve complex problems in finance, operations, and organizational strategy.
+I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science (B.S.) and Economics & Accounting (B.A.). My academic and professional interests lie in data science, analytics, and scalable data systems.
+
+My work focuses on building reproducible data pipelines, analytical tools, and visualization systems that support data-driven decision making across scientific, financial, and operational domains.
+
+Currently, I am working on the CalCOFI oceanographic data modernization project, where I develop automated data pipelines and visualization workflows using Python, R, SQL, DuckDB, and cloud-based technologies. The project supports long-term marine ecosystem monitoring through scalable data infrastructure and interactive dashboards.
+
+In addition to technical projects, I have experience in quantitative instruction, financial operations, and organizational systems development, including building SQL-based workflow platforms and supporting IPO audit procedures. I am particularly interested in the intersection of data infrastructure, statistical analysis, and real-world applications.
+
+
+-
+ 
 
 My experience spans data system development, math and accounting. In my sophomore year, I served as an Undergraduate Teaching Assistant in the [Mathematics Department, University of California, Santa Barbara](https://www.math.ucsb.edu/) where I evaluated assignments, provided feedback, and supported students in understanding core mathematical concepts. I am currently leading the development of an internal operations platform for a student organization, involving a SQL-based user database and a custom web interface to enhance workflow coordination.
 
 Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding my technical skill set while staying grounded in the principles of clarity, accountability, and collaboration. I am particularly interested in the intersection of data infrastructure, financial processes, and scalable decision-making systems.
 
-📚 Education
+📍 Featured Projects
 ======
-**University of California, Santa Barbara** *(2023.09 - 2027.06)*
-- Bachelor of Science (B.S.) in Statistics & Data Science
-- Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
+**CalCOFI Pipeline & Dashboard** *(2025.09 - 2026.06)*
+**Tech Stack:** Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
+- Developed an automated pipeline to ingest, validate, and standardize 75+ years of oceanographic and species abundance data.
+- Built metadata-driven workflows and taxonomy standardization using WoRMS integration.
+- Implemented cloud-based distribution and automated weekly updates through GitHub Actions.
+- Contributed to an interactive dashboard for visualizing marine ecosystem trends and species distributions.
+
+🔗 [Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) | [Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) | [GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
 
 
-📌 Skills & Interests
-======
-**Programming Languages**
-- Python
-- R
-- SQL
-- JavaScript
-- C
-- Stata
 
-**Technical Skill**
-- Excel (VLOOKUP, PivotTables, etc.)
-- Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
-- Google Suite
-
-**Languages**
-- English
-- Chinese
-
-**Interests**
-- Baking
-- Hiking
-- LEGO
-
-**Awards**
-- Fall2023 Fall2024 Winter2025 Spring2025 Dean's Honors List
-
-📍 Research Project
-======
-**UCSB Data Science Capstone Project** *(2025.09 - 2026.06)*
-*wait me to update :-)*
-_# add github 197 link_
-
+**UCSB CSSA Official Website** *(2025.09 - 2026.06)*
 
 💻 In-class Projects
 ======
 - [PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
 - **Project in C**
+
+
+📌 Technical Skills
+======
+- **Languages:** Python, R, SQL, C, JavaScript
+- **Data & Analytics:** DuckDB, Panda, tidyverse, Stata, Excel (PivotTables, VLOOKUP, etc.)
+- **Visualization:** Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
+- **Google Suite:** Git/GitHub, Google Cloud Storage, GitHub Actions
+- **Languages:** English, Mandarin
+- **Interests:** Baking, Hiking, LEGO
+
+Technical Interests:
+• Data Science & Analytics
+• Data Infrastructure & Automation
+• Statistical Modeling
+• Visualization & Decision Systems
+• Applied Economics & Finance
+
+📚 Education
+======
+**University of California, Santa Barbara** *(2023.09 - 2027.06)*
+Bachelor of Science (B.S.) in Statistics & Data Science
+Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
+Dean's Honor List: Fall2023 Fall2024 Winter2025 Spring2025 
+
 
 
 📂 Campus Experience
