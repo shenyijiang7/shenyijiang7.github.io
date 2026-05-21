@@ -103,16 +103,6 @@ Technical Interests:
 
 
 
-📚 Education
-======
-**University of California, Santa Barbara** *(2023.09 - 2027.06)*
-Bachelor of Science (B.S.) in Statistics & Data Science
-Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
-Dean's Honor List: Fall2023 Fall2024 Winter2025 Spring2025 
-
-
-
-
 
 
 
