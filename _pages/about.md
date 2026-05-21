@@ -15,13 +15,6 @@ Currently, I am working on the CalCOFI oceanographic data modernization project,
 
 In addition to technical projects, I have experience in quantitative instruction, financial operations, and organizational systems development, including building SQL-based workflow platforms and supporting IPO audit procedures. I am particularly interested in the intersection of data infrastructure, statistical analysis, and real-world applications.
 
-
--
- 
-
-My experience spans data system development, math and accounting. In my sophomore year, I served as an Undergraduate Teaching Assistant in the [Mathematics Department, University of California, Santa Barbara](https://www.math.ucsb.edu/) where I evaluated assignments, provided feedback, and supported students in understanding core mathematical concepts. I am currently leading the development of an internal operations platform for a student organization, involving a SQL-based user database and a custom web interface to enhance workflow coordination.
-
-
 # 📍 Featured Projects
 ======
 ## **CalCOFI Pipeline & Dashboard**   
@@ -90,19 +83,10 @@ Technical Interests:
 - Lead sponsorship outreach and maintain relationships with local businesses to secure annual funding for productions and events
 - Allocate performance budgets based on event needs and maintain accurate financial records using organized spreadsheets, ensuring transparency and accountability across all productions
 
-**UCSB EALCS Department | Chinese Language Volunteer** *(2025.04 - 2025.06)*
-- Incorporate cultural topics to help students connect language learning with real-world Chinese contexts and enhance overall immersion
-- Provide one-on-one Mandarin tutoring to non-native speakers, focusing on pronunciation, vocabulary building, and conversational fluency
-- Foster a supportive and encouraging learning environment, helping students gain confidence in both spoken and written Chinese
-
 **UCSB Mathematics Department | Undergraduate Teaching Assistant** *(2024.09 - 2025.06)*
 - Evaluated assignments for 35 students, ensuring a 100% grading accuracy rate and delivering constructive feedback to improve understanding of mathematical concepts
 - Achieved 100% on-time submissions of deliverable and with consistent professor satisfaction for quality
 - Selected as an undergraduate grader due to outstanding academic performance in mathematics
-
-**UCSB Disabled Student Program | Notetaker** *(2024.09 - 2025.01)*
-- Enhance note-taking efficiency by delivering 70+ comprehensive notes to support 10+ students
-- Demonstrate attention to detail and reliability by implementing structured formats and adapting to specific needs
 
 **TOEFL | Individual Tutor** *(2023.07 - Present)*                                        
 - Mentored 10+ students, achieving an average score improvement of 3 point in TOEFL speaking by founding an independent initiative
