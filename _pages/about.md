@@ -32,7 +32,9 @@ Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding 
 - Implemented cloud-based distribution and automated weekly updates through GitHub Actions.
 - Contributed to an interactive dashboard for visualizing marine ecosystem trends and species distributions.
 
-🔗 [Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) | [Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) | [GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
+🔗[Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
+🔗[Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
+🔗[GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
 
 
 
