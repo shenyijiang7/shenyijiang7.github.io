@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-resume 
 I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science (B.S.) and Economics & Accounting (B.A.). My academic and professional interests lie in data science, analytics, and scalable data systems.
 
 My work focuses on building reproducible data pipelines, analytical tools, and visualization systems that support data-driven decision making across scientific, financial, and operational domains.
