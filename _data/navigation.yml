@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
- # - title: "Campus Experience"
-   # url: /campus-experience/
+  - title: "About"
+    url: /
 
- # - title: "Internship"
-   # url: /internship/    
+  - title: "Projects"
+    url: /portfolio/    
 
-  # - title: "Teaching"
-    # url: /teaching/    
+   - title: "Resume"
+     url: /files/SHENYI_JIANG_RESUME_DS.pdf    
     
   # - title: "In-Class Project"
     # url: /in-class-project/
