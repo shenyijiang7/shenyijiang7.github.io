@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+resume 
 I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science (B.S.) and Economics & Accounting (B.A.). My academic and professional interests lie in data science, analytics, and scalable data systems.
 
 My work focuses on building reproducible data pipelines, analytical tools, and visualization systems that support data-driven decision making across scientific, financial, and operational domains.
@@ -21,51 +21,50 @@ In addition to technical projects, I have experience in quantitative instruction
 
 My experience spans data system development, math and accounting. In my sophomore year, I served as an Undergraduate Teaching Assistant in the [Mathematics Department, University of California, Santa Barbara](https://www.math.ucsb.edu/) where I evaluated assignments, provided feedback, and supported students in understanding core mathematical concepts. I am currently leading the development of an internal operations platform for a student organization, involving a SQL-based user database and a custom web interface to enhance workflow coordination.
 
-Proficient in Python, R, SQL, JavaScript, and Stata, I am continually expanding my technical skill set while staying grounded in the principles of clarity, accountability, and collaboration. I am particularly interested in the intersection of data infrastructure, financial processes, and scalable decision-making systems.
 
-📍 Featured Projects
+# 📍 Featured Projects
 ======
-**CalCOFI Pipeline & Dashboard** 
-📅2025.09 - 2026.06
+## **CalCOFI Pipeline & Dashboard**   
+📅2025.09 - 2026.06 
 **Tech Stack:** 
-! [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-! [R] (https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-! [DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat-square&logo=duckdb&logoColor=white)
-! [YAML](https://img.shields.io/badge/YAML-4A4A4A?style=flat-square&logo=yaml&logoColor=white)
-! [R Shiny](https://img.shields.io/badge/R20Shiny-276DC3?style=flat-square&logo=r-shiny&logoColor=white)
-! [GitHub Actions](https://img.shields.io/badge/GitHub20Actions-2088FF?style=flat-square&logo=githubactios&logoColor=white)
-! [Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage=4285F4?style=flat-square&logo=google-cloud&logo oColor=white)
-
 Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
 - Developed an automated pipeline to ingest, validate, and standardize 75+ years of oceanographic and species abundance data.
 - Built metadata-driven workflows and taxonomy standardization using WoRMS integration.
 - Implemented cloud-based distribution and automated weekly updates through GitHub Actions.
 - Contributed to an interactive dashboard for visualizing marine ecosystem trends and species distributions.
 
-🔗[Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
+[Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
 |
-🔗[Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
+[Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
 |
-🔗[GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
+[GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
 
 
+## **UCSB CSSA Official Website**    
+📅2025.09 - 2026.06  
+**Tech Stack:** SQL, JavaScript, HTML/CSS
+- Designed and developed an internal workflow platform for student organization operations.
+- Built a SQL-based database and web interface to streamline project tracking and approval processes.
+- Improved collaboration efficiency across multiple departments.
+[UCSB CSSA Official Website](https://www.ucsbcssa.com/)
 
-**UCSB CSSA Official Website** *(2025.09 - 2026.06)*
 
-💻 In-class Projects
-======
-- [PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
-- **Project in C**
+## PSTAT 122 Statistical Analysis Project
+**Tech Stack:** R, tidyverse, ggplot2
+- Conducted exploratory data analysis and statistical modeling using real-world datasets.
+- Applied regression techniques and data visualization to investigate relationships among variables.
+- Communicated findings through reproducible analytical reports.
+[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
 
 
-📌 Technical Skills
+# 📌 Technical Skills
 ======
 - **Languages:** Python, R, SQL, C, JavaScript
 - **Data & Analytics:** DuckDB, Panda, tidyverse, Stata, Excel (PivotTables, VLOOKUP, etc.)
 - **Visualization:** Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
-- **Google Suite:** Git/GitHub, Google Cloud Storage, GitHub Actions
+- **Cloud & Tools:** Git/GitHub, Google Cloud Storage, GitHub Actions
 - **Languages:** English, Mandarin
-- **Interests:** Baking, Hiking, LEGO
+
 
 Technical Interests:
 • Data Science & Analytics
@@ -74,16 +73,17 @@ Technical Interests:
 • Visualization & Decision Systems
 • Applied Economics & Finance
 
-📚 Education
+
+# 💼 Internship Experience
 ======
-**University of California, Santa Barbara** *(2023.09 - 2027.06)*
-Bachelor of Science (B.S.) in Statistics & Data Science
-Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
-Dean's Honor List: Fall2023 Fall2024 Winter2025 Spring2025 
+**RSM China CPA LLP | Audit Assistant**  
+📅2025.08 - 2025.09  
+- Contributed to the successful IPO audit of an environmental technology company, aiding in its preparation for public stock exchange listing
+- Executed sampling tests, examined supporting documents, and drafted audit workpapers aligned with PCAOB and China GAAP standards
+- Leveraged Excel and RSM’s EAS system to perform bank confirmation reconciliations and validate financial records, ensuring 100% accuracy and completeness of audit trails
+- Collaborated in a fast-paced, deadline-driven team environment, demonstrating rapid adaptability and professional judgment under high pressure
 
-
-
-📂 Campus Experience
+# 📂 Campus Experience
 ======
 **UCSB BabaNana Drama Club | Finance Department Director** *(2025.04 - Present)* 
 - Collaborate with UCSB’s AS Community Affairs Board to advocate for performance space funding and negotiate resource allocations
@@ -108,27 +108,29 @@ Dean's Honor List: Fall2023 Fall2024 Winter2025 Spring2025
 - Mentored 10+ students, achieving an average score improvement of 3 point in TOEFL speaking by founding an independent initiative
 - Guide Chinese undergraduate students in developing personalized study plans for TOEFL exams, contributing to multiple successful admission to U.S. graduate schools
 
-
-💼 Internship Experience
-======
-**RSM China CPA LLP | Audit Assistant** *(2025.08 - 2025.09)*
-- Contributed to the successful IPO audit of an environmental technology company, aiding in its preparation for public stock exchange listing
-- Executed sampling tests, examined supporting documents, and drafted audit workpapers for key accounts including inventory, prepayments, accounts payable, and research & development expenses
-- Leveraged Excel and RSM's EAS system to perform bank confirmation reconciliations and validate financial records, ensuring 100% accuracy and completeness of audit trails
-- Collaborated in a fast-paced, deadline-driven team environment, demonstrating rapid adaptability and professional judgment under high pressure
-
-📈 Leadership Experience
+# 📈 Leadership Experience
 ======
 **UCSB Chinese Students and Scholars Association | Vice President** *(2025.05 - Present)*
-- Oversee organizational financial operations, including annual budgeting, reimbursement processing, and UCSB funding applications, ensuring transparency and fiscal accountability
-- Spearheaded the development of an internal OA system to optimize team workflow, including SQL-based user database design and a custom-built web interface for internal communication and task management
-- Coordinate cross-departmental efforts between finance, tech, and operations teams to ensure aligned objectives and smooth implementation
+- Managed $60,000+ annual organizational budgets, reimbursement workflows, and UCSB funding applications while ensuring financial accountability
+- Coordinated cross-functional initiatives across finance, operations, and technology teams to support large-scale student events with 500+ attendees
+- Established partnerships with 10+ local businesses for the CSSA Black Card program, securing 10% student discount programs and strengthening community engagement
 
-**UCSB Chinese Students and Scholars Association | Vice-Chair of Business Development Department, former Committee** *(2023.09 - 2025.05)*
-- Built Partnerships with 10+ local food businesses in Santa Barbara, providing exclusive promotions for UCSB students and CSSA members, boosting community engagement
-- Generated $60,000+ in annual sponsorship value through strategic outreach and contract negotiation
-- Coordinated communication across sponsors, executive board, and department teams to ensure efficient collaboration
-- Managed human resources, recruiting and task delegation for 20+ committe members, optimizing engagement
+
+
+
+
+📚 Education
+======
+**University of California, Santa Barbara** *(2023.09 - 2027.06)*
+Bachelor of Science (B.S.) in Statistics & Data Science
+Bachelor of Arts (B.A.) in Economics & Accounting, CPA Candidate, Expected eligibility by Fall 2026
+Dean's Honor List: Fall2023 Fall2024 Winter2025 Spring2025 
+
+
+
+
+
+
 
 
 
