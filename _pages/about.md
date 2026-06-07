@@ -6,19 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science (B.S.) and Economics & Accounting (B.A.). My academic and professional interests lie in data science, analytics, and scalable data systems.
+I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science and Economics & Accounting. 
 
-My work focuses on building reproducible data pipelines, analytical tools, and visualization systems that support data-driven decision making across scientific, financial, and operational domains.
+My interests lie in data science, analytics, and data-driven decision making. I enjoy building reproducible data pipeline, analytical tools and visualization systems that transform complex data into actionable insights.
 
-Currently, I am working on the CalCOFI oceanographic data modernization project, where I develop automated data pipelines and visualization workflows using Python, R, SQL, DuckDB, and cloud-based technologies. The project supports long-term marine ecosystem monitoring through scalable data infrastructure and interactive dashboards.
-
-In addition to technical projects, I have experience in quantitative instruction, financial operations, and organizational systems development, including building SQL-based workflow platforms and supporting IPO audit procedures. I am particularly interested in the intersection of data infrastructure, statistical analysis, and real-world applications.
+Currently, I work on the CalCOFI oceanographic data modernization project, developing automated workflows and interactive dashboards using Python, R, SQL, DuckDB, and cloud technologies to support long-term marine ecosystem research.
 
 ## 📍 Featured Projects
 ### **CalCOFI Pipeline & Dashboard**   
 📅 2025.09 - 2026.06   
 **Tech Stack:** 
-Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
+Python, R, DuckDB, YAML, R Shiny, GitHub Actions, Google Cloud Storage
 - Developed an automated pipeline to ingest, validate, and standardize 75+ years of oceanographic and species abundance data.
 - Built metadata-driven workflows and taxonomy standardization using WoRMS integration.
 - Implemented cloud-based distribution and automated weekly updates through GitHub Actions.
@@ -51,20 +49,11 @@ Python, R, DuckDB, YAML, R Shiny, GitHUb Actions, Google Cloud Storage
 
 
 ## 📌 Technical Skills
-- **Languages:** Python, R, SQL, C, JavaScript
-- **Data & Analytics:** DuckDB, Panda, tidyverse, Stata, Excel (PivotTables, VLOOKUP, etc.)
-- **Visualization:** Microsoft Office Suite (Word, Excel, PowerPoint, etc.)
+- **Programming Languages:** Python, R, SQL, C, JavaScript
+- **Data & Analytics:** DuckDB, pandas, tidyverse, Stata, Excel (PivotTables, VLOOKUP, etc.)
+- **Visualization:** RShiny, ggplot2, Excel Dashboards
 - **Cloud & Tools:** Git/GitHub, Google Cloud Storage, GitHub Actions
 - **Languages:** English, Mandarin
-
-
-Technical Interests:
-• Data Science & Analytics
-• Data Infrastructure & Automation
-• Statistical Modeling
-• Visualization & Decision Systems
-• Applied Economics & Finance
-
 
 ## 💼 Internship Experience
 ### **RSM China CPA LLP | Audit Assistant**  
@@ -84,13 +73,13 @@ Technical Interests:
 ### **UCSB Mathematics Department | Undergraduate Teaching Assistant** 
 📅 2024.09 - 2025.06
 - Evaluated assignments for 35 students, ensuring a 100% grading accuracy rate and delivering constructive feedback to improve understanding of mathematical concepts
-- Achieved 100% on-time submissions of deliverable and with consistent professor satisfaction for quality
+- Achieved 100% on-time submissions of deliverables and with consistent professor satisfaction for quality
 - Selected as an undergraduate grader due to outstanding academic performance in mathematics
 
 ### **TOEFL | Individual Tutor** 
 📅 2023.07 - Present                                     
-- Mentored 10+ students, achieving an average score improvement of 3 point in TOEFL speaking by founding an independent initiative
-- Guide Chinese undergraduate students in developing personalized study plans for TOEFL exams, contributing to multiple successful admission to U.S. graduate schools
+- Mentored 10+ students, achieving an average score improvement of 3 points in TOEFL speaking by founding an independent initiative
+- Guide Chinese undergraduate students in developing personalized study plans for TOEFL exams, contributing to multiple successful admissions to U.S. graduate schools
 
 ## 📈 Leadership Experience
 ### **UCSB Chinese Students and Scholars Association | Vice President** 
