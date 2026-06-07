@@ -15,7 +15,7 @@ main:
     url: /portfolio/    
 
   - title: "Resume"
-     url: /files/SHENYI_JIANG_RESUME_DS.pdf    
+    url: /files/SHENYI_JIANG_RESUME_DS.pdf
     
   # - title: "In-Class Project"
     # url: /in-class-project/
