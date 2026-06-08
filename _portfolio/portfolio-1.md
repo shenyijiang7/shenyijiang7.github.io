@@ -21,3 +21,10 @@ The CalCOFI Oceanographic Data Modernization project focuses on transforming his
 [Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
 |
 [GitHub](https://github.com/JoyChang10/capstone-calcofi-scripps)
+
+**Project Snapshot**
+![CalCOFI Dashboard](/images/calcofi-dashboard.png)
+*Interactive dashboard for data exploration and trend analysis*
+
+![CalCOFI Poster](/images/calcofi-poster.png)
+*Capstone poster presented at the CalCOFI conference*

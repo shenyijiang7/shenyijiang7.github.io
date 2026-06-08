@@ -1,6 +1,6 @@
 ---
-title: "UCSB CSSA Internal Workflow Platform"
-excerpt: "Designed and coordinated the development of an internal workflow platform supporting member management, communication, and organizational operations.<br/><br/><b>Tools:</b> SQL, Database Design, Workflow Systems"
+title: "UCSB CSSA Workflow Platform"
+excerpt: "Designed and coordinated the development of an internal workflow platform supporting member management, communication, and organizational operations. The system centralized organizational information and improved coordination across executive teams.<br/><br/><b>Tools:</b> SQL, Web Coding, Database Design, Workflow Systems"
 collection: portfolio
 ---
 
@@ -30,3 +30,5 @@ As part of UCSB CSSA's organizational modernization efforts, this project aimed 
 ### Impact
 
 The platform established a more structured and scalable framework for internal operations, helping improve communication efficiency, task coordination, and information accessibility across the organization.
+
+[UCSB CSSA Official Website](https://www.ucsbcssa.com/)
