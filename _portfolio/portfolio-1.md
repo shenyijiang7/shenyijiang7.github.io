@@ -6,7 +6,7 @@ collection: portfolio
 
 The CalCOFI Oceanographic Data Modernization project focuses on transforming historical marine ecosystem monitoring data into a scalable analytics platform through automated pipelines, validation systems, and interactive visualizations.
 
-**Key Achievements**
+###Key Achievements
 - Developed automated data ingestion and validation workflows for long-term marine ecosystem monitoring datasets
 - Structured and managed analytical datasets using SQL and DuckDB to support scalable data storage and querying
 - Built interactive dashboards for data exploration, visualization, and annual trend analysis
@@ -15,7 +15,7 @@ The CalCOFI Oceanographic Data Modernization project focuses on transforming his
 
 **Tools:** Python, R, SQL, DuckDB, R Shiny, Google Cloud Storage
 
-**Deliverables:** 
+#### Deliverables:** 
 [Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
 |
 [Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 
