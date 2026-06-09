@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am an undergraduate student at the University of California, Santa Barbara, pursuing a double degree in Statistics & Data Science and Economics & Accounting. 
 My interests lie in data science, analytics, and data-driven decision making. I enjoy building reproducible data pipeline, analytical tools and visualization systems that transform complex data into actionable insights.
 
@@ -19,13 +20,7 @@ Currently, I work on the CalCOFI oceanographic data modernization project, devel
 - **Languages:** English, Mandarin
 
 
-### PSTAT 122 Statistical Analysis Project
-**Tech Stack:** R, tidyverse, ggplot2
-- Conducted exploratory data analysis and statistical modeling using real-world datasets.
-- Applied regression techniques and data visualization to investigate relationships among variables.
-- Communicated findings through reproducible analytical reports.
 
-[PSTAT 122 Project in R](https://shenyijiang7.github.io/files/pstat122-final-project.pdf)
 
 
 

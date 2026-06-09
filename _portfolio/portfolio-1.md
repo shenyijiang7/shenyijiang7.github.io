@@ -33,3 +33,4 @@ Python, R, SQL, DuckDB, R Shiny, Google Cloud Storage
 
 ![CalCOFI Poster](/images/calcofi-poster.png)
 *Capstone poster presented at the CalCOFI conference*
+
