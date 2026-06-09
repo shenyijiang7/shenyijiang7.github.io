@@ -12,13 +12,13 @@ main:
     url: /
 
   - title: "Projects"
-    url: /portfolio/    
+    url: /portfolio/   
+     
+  - title: "Experience"
+    url: /experience/
 
   - title: "Resume"
     url: /files/SHENYI_JIANG_RESUME_DS.pdf
-    
-  - title: "Experience"
-    url: /experience/
 
     
   # - title: "In-Class Project"
