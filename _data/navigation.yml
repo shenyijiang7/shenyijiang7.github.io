@@ -17,8 +17,9 @@ main:
   - title: "Resume"
     url: /files/SHENYI_JIANG_RESUME_DS.pdf
     
-  - title: "Resume"
-    url: /files/SHENYI_JIANG_RESUME_DS.pdf
+  - title: "Experience"
+    url: /experience/
+
     
   # - title: "In-Class Project"
     # url: /in-class-project/
