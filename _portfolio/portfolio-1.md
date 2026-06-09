@@ -15,7 +15,7 @@ The CalCOFI Oceanographic Data Modernization project focuses on transforming his
 
 **Tools:** Python, R, SQL, DuckDB, R Shiny, Google Cloud Storage
 
-**Deliverables**
+**Deliverables:** 
 [Dashboard](https://calcofi-dashboard.shinyapps.io/dashboard/) 
 |
 [Poster](https://docs.google.com/presentation/d/1bUEg7KManGbUC2Nbl8A-cpBYjwPdETCdjivyuGaOaOI/edit?usp=sharing) 

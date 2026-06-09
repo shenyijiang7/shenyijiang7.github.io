@@ -1,34 +1,26 @@
 ---
 title: "UCSB CSSA Workflow Platform"
-excerpt: "Designed and coordinated the development of an internal workflow platform supporting member management, communication, and organizational operations. The system centralized organizational information and improved coordination across executive teams.<br/><br/><b>Tools:</b> SQL, Web Coding, Database Design, Workflow Systems"
+excerpt: "Led the planning and cross-functional coordination of UCSB CSSA's digital infrastructure initiative, which included the development of the organization's official website and the design of future workflow and operations management systems.<br/><br/><b>Tools:</b> SQL, Web Coding, Database Design, Workflow Systems"
 collection: portfolio
 ---
 
-Developed and coordinated an internal workflow platform for the Chinese Students and Scholars Association (CSSA) at the University of California, Santa Barbara.
+As the organization expanded, information sharing, event coordination, and internal operations became increasingly complex. This initiative aimed to centralize organizational resources, improve communication efficiency, and establish the foundation for scalable digital operations.
 
-### Project Overview
+**Key Achievements**
+- Coordinated the development and deployment of UCSB CSSA's official website, serving as a centralized platform for organizational information and student resources
+- Gathered requirements from multiple departments and translated operational needs into structured system specifications
+- Led project planning, timeline management, and cross-functional communication among technical contributors and organizational stakeholders
+- Contributed to the architectural planning of future workflow automation and information management systems
+- Established a foundation for scalable digital operations supporting large-scale student events, member engagement, and organizational coordination
 
-As part of UCSB CSSA's organizational modernization efforts, this project aimed to improve internal communication, information management, and operational efficiency through a centralized workflow platform.
+**Skills & Technologies:** SQL, Database Design, Workflow Management, Systems Planning, Cross-functional Collaboration, Organizational Operations
 
-### Highlights
+**Impact**
+The project improved information accessibility and organizational communication by providing a centralized online presence for UCSB CSSA while laying the foundation for future workflow and operations management initiatives.
 
-- Gathered organizational requirements and translated operational needs into structured system workflows
-- Designed processes for member management, communication, and task tracking across departments
-- Supported the development of SQL-based user databases and information management systems
-- Improved coordination and information accessibility for executive board members and department leaders
-- Collaborated with technical contributors and student leaders to streamline organizational operations
-
-### Skills & Technologies
-
-- SQL
-- Database Design
-- Workflow Management
-- Systems Planning
-- Cross-functional Collaboration
-- Organizational Operations
-
-### Impact
-
-The platform established a more structured and scalable framework for internal operations, helping improve communication efficiency, task coordination, and information accessibility across the organization.
-
+**Deliverables:**
 [UCSB CSSA Official Website](https://www.ucsbcssa.com/)
+
+**Project Snapshot**
+![CSSA Homepage](/images/cssa-homepage.png)
+*Information Hub, developed as part of UCSB CSSA's digital infrastructure initiative*
