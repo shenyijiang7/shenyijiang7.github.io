@@ -5,10 +5,24 @@ permalink: /entrepreneurship/
 author_profile: true
 ---
 
-## 📈 Internship Experience
-
 ### **Dorm Bedding Kit | Project Lead** 
 *California & China | 2026.06 – Present* 
-- Initiated and launched a multi-campus bedding program for incoming international students, partnering with five university student associations and managing end-to-end operations from demand collection and supplier coordination to campus distribution.
-- Managed cross-border supply chain and fulfillment, coordinating production, quality control, international freight, last-mile delivery, and campus pickup across multiple logistics providers.
-- Built order and cost-tracking workflows to analyze campus-level demand, inventory, shipping costs, and unit economics, completing 88 orders and generating $8,000+ in revenue and $3,600+ in net profit.
+
+*Building a multi-campus bedding program that simplifies move-in for incoming international students through centralized sourcing, cross-border logistics, and campus distribution.*
+
+---
+
+#### What I Led
+
+**Multi-campus operations** 
+— Initiated and launched the program across five university student associations, coordinating demand collection, supplier sourcing, order fulfillment, and campus distribution.
+
+**Cross-border supply chain** 
+— Managed production, quality control, international freight, last-mile delivery, and campus pickup across manufacturers and logistics providers in China and the U.S.
+
+**Operations & analytics** 
+— Built order, inventory, and cost-tracking workflows to monitor campus-level demand, shipping costs, inventory movement, and unit economics.
+
+### Outcome
+
+Built the program from initial concept to live operations, completing **88 orders** and generating **$8,000+ in revenue** and **$3,600+ in net profit** during the first operating cycle.
