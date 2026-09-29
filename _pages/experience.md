@@ -6,7 +6,7 @@ author_profile: true
 
 ## 💼 Internship Experience
 
-### **Danaher Diagnostics China | ** 
+### **Danaher Diagnostics China | IT Summer Intern** 
 *Shanghai, China | 2026.06 – 2026.08* 
 - Built Power Automate Desktop workflows to automate repetitive ValGenesis processes, integrating structured Excel inputs, dynamic UI interactions, and status-based batch processing to streamline document workflows
 - Supported the implementation of ValGenesis by migrating legacy documentation, validating end-to-end system workflows, and troubleshooting implementation issues to improve process reliability and data accuracy
