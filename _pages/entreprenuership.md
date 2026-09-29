@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-#### What I Led
+### What I Led
 
 **Multi-campus operations** 
 — Initiated and launched the program across five university student associations, coordinating demand collection, supplier sourcing, order fulfillment, and campus distribution.
