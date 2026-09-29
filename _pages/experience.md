@@ -27,7 +27,7 @@ author_profile: true
 - Coordinated cross-functional initiatives across finance, operations, and technology teams to support large-scale student events with 500+ attendees
 - Established partnerships with 10+ local businesses for the CSSA Black Card program, securing 10% student discount programs and strengthening community engagement
 
-### **UCSB Economics Department | Accounting Grader ** 
+### **UCSB Economics Department | Accounting Grader** 
 *Santa Barbara, CA | 2026.09 – Present*
 - Evaluate homework assignments, midterms, and final exams for Intermediate Accounting, applying consistent grading standards and maintaining accuracy across complex accounting problems
 
